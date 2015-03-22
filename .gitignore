@@ -1,0 +1,7 @@
+*.pyc
+
+# JetBrains IDE
+.idea
+
+# Logfile if Hitbox API is used outside of Kodi
+log

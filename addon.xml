@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.hitbox" name="Hitbox" version="0.1.0" provider-name="liquex">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<language>en</language>
+		<source>https://github.com/liquex/plugin.video.hitbox</source>
+		<forum></forum>
+		<license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
+        
+		<summary lang="en">Hitbox</summary>
+		<description lang="en">Live! it up - A streaming platform created by gamers, for the gaming community</description>
+	</extension>
+</addon>
